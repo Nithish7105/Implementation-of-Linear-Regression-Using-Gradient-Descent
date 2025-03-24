@@ -73,10 +73,21 @@ data.head()
 ```
 
 ## Output:
-```
-Predicted value: 193075.97426510364
-```
-![Screenshot](https://github.com/user-attachments/assets/ae06e431-21f7-47fe-967b-eaa88d5bf53f)
+# X&Y values:
+![image](https://github.com/PYNAMVINODH/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742678/3d12f971-3ae5-4d8e-b851-bdc59c06d564)
+
+ ![image](https://github.com/PYNAMVINODH/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742678/2603d3be-4a97-41ac-9192-343a2d31e077)
+ 
+# X-Scaled & Y-Scaled:
+
+![image](https://github.com/PYNAMVINODH/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742678/f7b7a8c1-0071-411b-a7be-3c73dcfbcfaa)
+
+
+![image](https://github.com/PYNAMVINODH/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742678/b8d746f3-dc1c-4e49-a105-c5e4591b5b54)
+
+# Predicted value:
+![image](https://github.com/PYNAMVINODH/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145742678/387720e9-d6e7-457d-a034-188cd2fa9dbd)
+
 
 
 ## Result:
